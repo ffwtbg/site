@@ -15,7 +15,7 @@ msgstr ""
 "Willkommen zum Einrichtungsassistenten für deinen neuen Winterberger "
 "Freifunk-Knoten. Fülle das folgende Formular deinen Vorstellungen "
 "entsprechend aus und sende es ab. Der Name sollte wie folgt aussehen"
-"'ff-<Ort>-<Bezeichnung>', dies macht eine Zuordnung für uns einfacher"
+"'ff-Ort-Bezeichnung', dies macht eine Zuordnung für uns einfacher"
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
