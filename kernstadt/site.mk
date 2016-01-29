@@ -24,6 +24,7 @@ GLUON_SITE_PACKAGES := \
         gluon-status-page \
         gluon-ssid-changer \
         gluon-migrate-vpn \
+        gluon-tunneldigger-watchdog \
         ffho-wifi-blackout-workaround \
         ffho-autoupdater-wifi-fallback \
         iwinfo \
