@@ -22,7 +22,6 @@ GLUON_SITE_PACKAGES := \
         gluon-radvd \
         gluon-setup-mode \
         gluon-status-page \
-        gluon-ssid-changer \
         gluon-migrate-vpn \
         gluon-tunneldigger-watchdog \
         ffho-wifi-blackout-workaround \
