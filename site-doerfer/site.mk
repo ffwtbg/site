@@ -1,4 +1,5 @@
 GLUON_SITE_PACKAGES := \
+	ffrg-txpower-fix \
         gluon-mesh-batman-adv-15 \
         gluon-alfred \
         gluon-respondd \
