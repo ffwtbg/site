@@ -1,6 +1,5 @@
 GLUON_SITE_PACKAGES := \
-	ffrg-txpower-fix \
-	ffen-updatefixer \
+
         gluon-mesh-batman-adv-15 \
         gluon-alfred \
         gluon-respondd \
@@ -32,7 +31,6 @@ GLUON_SITE_PACKAGES := \
         iptables \
         haveged
 
-DEFAULT_GLUON_RELEASE := 0.8.6-L2TP
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
