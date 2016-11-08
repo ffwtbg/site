@@ -1,4 +1,6 @@
 GLUON_SITE_PACKAGES := \
+	gluon-ssid-notifier \
+	ff-wtbg-autoreboot\
         gluon-mesh-batman-adv-15 \
         gluon-alfred \
         gluon-respondd \
