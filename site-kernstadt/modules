@@ -16,14 +16,14 @@ PACKAGES_FFFM_BRANCH=master
 PACKAGES_FFFM_COMMIT=a9b5af4c7df2828d75209253f686f02702ba4270
 
 #SSIDNOTIFIER Packages
-PACKAGES_SSIDNOTIFIER_REPO=https://github.com/freifunk-kiel/gluon-ssid-notifier
+PACKAGES_SSIDNOTIFIER_REPO=https://github.com/freifunk-kiel/gluon-ssid-notifier.git
 PACKAGES_SSIDNOTIFIER_COMMIT=b7ea482356c92b639be6e233ca7cc9d4a8d8ab24
-PACKAGES_SSIDNOTIFIER_BRANCH=ssid-notifier
+PACKAGES_SSIDNOTIFIER_BRANCH=master
 
 #FFWTBG Packages
-PACKAGES_FFFM_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
-PACKAGES_FFFM_BRANCH=master
-PACKAGES_FFFM_COMMIT=c3112a941346a818111310196fbf7402faa24d34
+PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
+PACKAGES_FFWTBG_BRANCH=master
+PACKAGES_FFWTBG_COMMIT=c3112a941346a818111310196fbf7402faa24d34
 
 #FFHS Packages
 PACKAGES_FFHS_REPO=https://git.c3pb.de/freifunk-pb/ffho-packages
