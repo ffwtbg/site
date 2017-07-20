@@ -1,0 +1,31 @@
+GLUON_SITE_FEEDS='ffrl fffm ssidnotifier ffwtbg ffhs'
+
+#FFRL Packages
+PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
+PACKAGES_FFRL_BRANCH=Branch_v2016.2.x
+PACKAGES_FFRL_COMMIT=9ef54396cf79031b1b7e35af038b8a0f2ec1bd90
+
+#FFDORF Packages
+#PACKAGES_FFDDORF_REPO=https://github.com/ffddorf/ddorf-packages.git
+#PACKAGES_FFDDORF_COMMIT=6d8fc6c4a09a30513344334908bbeda2a7b48883
+#PACKAGES_FFDDORF_BRANCH=master
+
+#FFFM Packages
+PACKAGES_FFFM_REPO=https://github.com/freifunk-ffm/packages.git
+PACKAGES_FFFM_BRANCH=master
+PACKAGES_FFFM_COMMIT=a9b5af4c7df2828d75209253f686f02702ba4270
+
+#SSIDNOTIFIER Packages
+PACKAGES_SSIDNOTIFIER_REPO=https://github.com/freifunk-kiel/gluon-ssid-notifier.git
+PACKAGES_SSIDNOTIFIER_COMMIT=b7ea482356c92b639be6e233ca7cc9d4a8d8ab24
+PACKAGES_SSIDNOTIFIER_BRANCH=master
+
+#FFWTBG Packages
+PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
+PACKAGES_FFWTBG_BRANCH=master
+PACKAGES_FFWTBG_COMMIT=c3112a941346a818111310196fbf7402faa24d34
+
+#FFHS Packages
+PACKAGES_FFHS_REPO=https://git.c3pb.de/freifunk-pb/ffho-packages
+PACKAGES_FFHS_BRANCH=v2016.2.x
+PACKAGES_FFHS_COMMIT=33f44ef1cae86899f30614f69e10b692c82e4545

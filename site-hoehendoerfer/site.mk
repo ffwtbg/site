@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
-	gluon-ssid-notifier \
-	ff-wtbg-autoreboot\
-	gluon-ssid-notifier \
+		gluon-ssid-notifier \
+		ff-wtbg-autoreboot\
         gluon-mesh-batman-adv-15 \
         gluon-alfred \
         gluon-respondd \
@@ -29,10 +28,12 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         ffho-wifi-blackout-workaround \
         ffho-autoupdater-wifi-fallback \
+		ffffm-ath9k-broken-wifi-workaround \
         iwinfo \
         iptables \
         haveged
 
+DEFAULT_GLUON_RELEASE := 0.8.11
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
