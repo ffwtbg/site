@@ -23,7 +23,7 @@ PACKAGES_SSIDNOTIFIER_BRANCH=master
 #FFWTBG Packages
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
 PACKAGES_FFWTBG_BRANCH=master
-PACKAGES_FFWTBG_COMMIT=fede7db00fcb909e7d3863d57febc26a70a2dc1a
+PACKAGES_FFWTBG_COMMIT=a0d41dc02dc861169218136cc99642aaecc9a70f
 
 #FFHS Packages
 PACKAGES_FFHS_REPO=https://git.c3pb.de/freifunk-pb/ffho-packages
