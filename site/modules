@@ -1,4 +1,4 @@
-GLUON_SITE_FEEDS='ffrl fffm ssidnotifier ffwtbg ffhs ffho'
+GLUON_SITE_FEEDS='ffrl fffm ssidnotifier ffwtbg ffho'
 
 #FFRL Packages
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
@@ -21,11 +21,11 @@ PACKAGES_FFWTBG_BRANCH=master
 PACKAGES_FFWTBG_COMMIT=a0d41dc02dc861169218136cc99642aaecc9a70f
 
 #FFHS Packages
-PACKAGES_FFHS_REPO=https://git.c3pb.de/freifunk-pb/ffho-packages
-PACKAGES_FFHS_BRANCH=v2016.2.x
-PACKAGES_FFHS_COMMIT=33f44ef1cae86899f30614f69e10b692c82e4545
+#PACKAGES_FFHS_REPO=https://git.c3pb.de/freifunk-pb/ffho-packages
+#PACKAGES_FFHS_BRANCH=v2016.2.x
+#PACKAGES_FFHS_COMMIT=33f44ef1cae86899f30614f69e10b692c82e4545
 
 #FFHO Packages
-PACKAGES_FFWTBG_REPO=https://github.com/FreifunkHochstift/ffho-packages.git
-PACKAGES_FFWTBG_BRANCH=v2017.1.x
-PACKAGES_FFWTBG_COMMIT=da5c897a3a2897f5e1519bcefaa00b649553f802
+PACKAGES_FFHO_REPO=https://github.com/FreifunkHochstift/ffho-packages.git
+PACKAGES_FFHO_BRANCH=v2017.1.x
+PACKAGES_FFHO_COMMIT=da5c897a3a2897f5e1519bcefaa00b649553f802
