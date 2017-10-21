@@ -1,10 +1,9 @@
 GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-15 \
 	gluon-ssid-notifier \
-	ff-wtbg-autoreboot \
+	gluon-weeklyreboot \
 	ffho-ath9k-blackout-workaround \
 	ffho-autoupdater-wifi-fallback \
-	gluon-next-node \
 	gluon-alfred \
 	gluon-respondd \
 	gluon-autoupdater \
