@@ -21,6 +21,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-vpn-tunneldigger \
 	gluon-ssid-changer \
 	gluon-tunneldigger-watchdog \
+	ff-wtbg-autoreboot \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
