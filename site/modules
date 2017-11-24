@@ -1,4 +1,4 @@
-GLUON_FEEDS='openwrt gluon routing luci ffrl ssidchanger ffki eulenfunk ffwtbg'
+GLUON_FEEDS='openwrt gluon routing luci ffrl ssidchanger ffki freifunknord ffwtbg eulenfunk'
 
 LEDE_REPO=https://git.lede-project.org/source.git
 LEDE_BRANCH=lede-17.01
@@ -30,11 +30,15 @@ PACKAGES_FFKI_REPO=https://github.com/freifunk-kiel/ffki-packages.git
 PACKAGES_FFKI_COMMIT=a3304d0736f0f0141b985a60ac5f55ec495ae908
 PACKAGES_FFKI_BRANCH=lede
 
-PACKAGES_EULENFUNK_REPO=https://github.com/Freifunk-Nord/eulenfunk-packages
-PACKAGES_EULENFUNK_COMMIT=a4be61c88e4628d3f039510c86cd20fe7f417261
-PACKAGES_EULENFUNK_BRANCH=lede
+PACKAGES_FREIFUNKNORD_REPO=https://github.com/Freifunk-Nord/eulenfunk-packages
+PACKAGES_FREIFUNKNORD_COMMIT=a4be61c88e4628d3f039510c86cd20fe7f417261
+PACKAGES_FREIFUNKNORD_BRANCH=lede
 
 #FFWTBG Packages
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
 PACKAGES_FFWTBG_BRANCH=v2017.1.4
 PACKAGES_FFWTBG_COMMIT=a0d41dc02dc861169218136cc99642aaecc9a70f
+
+PACKAGES_EULENFUNK_REPO=https://github.com/eulenfunk/packages.git
+PACKAGES_EULENFUNK_COMMIT=e3dc15822ca5c8f033cd7972e1a673f479b404f7
+PACKAGES_EULENFUNK_BRANCH=lede
