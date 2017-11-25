@@ -26,6 +26,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-setup-mode \
 	gluon-status-page \
 	gluon-quickfix \
+	ff-wtbg-autoreboot \
 	iwinfo \
 	haveged
 
