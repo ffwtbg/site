@@ -19,7 +19,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-web-wifi-config \
 	gluon-web-private-wifi \
 	gluon-mesh-vpn-tunneldigger \
-	gluon-ssid-changer \
 	gluon-tunneldigger-watchdog \
 	gluon-weeklyreboot \
 	gluon-radvd \
@@ -123,7 +122,7 @@ GLUON_ARCHERC7_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(TOOLS_PACKAGES) $(USB_PA
 GLUON_TLWDR4900_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(TOOLS_PACKAGES) $(USB_PACKAGES_STORAGE)
 
 
-DEFAULT_GLUON_RELEASE := 0.8.14.2
+DEFAULT_GLUON_RELEASE := 0.8.14.3
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
