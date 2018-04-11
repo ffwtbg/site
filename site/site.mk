@@ -26,7 +26,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-status-page \
 	gluon-quickfix \
 	ff-wtbg-autoreboot \
-	# gluon-ssid-changer \
+	ff-wtbg-remove_offlinessid \
 	iwinfo \
 	haveged
 
