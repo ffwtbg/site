@@ -18,7 +18,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-web-private-wifi \
 	gluon-mesh-vpn-tunneldigger \
 	gluon-tunneldigger-watchdog \
-	gluon-weeklyreboot \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
