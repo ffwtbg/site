@@ -22,28 +22,29 @@ GLUON_REGION := eu
 ###################
 
 GLUON_FEATURES := \
-	autoupdater \
-	ebtables-filter-multicast \
-	ebtables-filter-ra-dhcp \
-	ebtables-limit-arp \
-	mesh-batman-adv-15 \
-	mesh-vpn-fastd \
-	radvd \
-	respondd \
-	status-page \
-	web-advanced \
-	web-wizard
-	
-	
+        autoupdater \
+        ebtables-filter-multicast \
+        ebtables-filter-ra-dhcp \
+        ebtables-limit-arp \
+        mesh-batman-adv-15 \
+        mesh-vpn-tunneldigger \
+        radvd \
+        respondd \
+        status-page \
+        web-advanced \
+        web-wizard
+
+
 # Additional packages to install on every image
 GLUON_SITE_PACKAGES := \
-	iwinfo \
-	gluon-config-mode-domain-select \
-	gluon-ebtables-limit-arp \
-	gluon-radv-filterd \
-	haveged \
-	respondd-module-airtime
-
+        iwinfo \
+#       gluon-config-mode-domain-select \
+        ff-wtbg-autoreboot \
+        gluon-tunneldigger-watchdog \
+        gluon-ebtables-limit-arp \
+        gluon-radv-filterd \
+        haveged \
+        respondd-module-airtime
 
 ############################
 # Additional package sets
