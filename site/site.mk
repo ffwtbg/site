@@ -38,10 +38,11 @@ GLUON_FEATURES := \
 # Additional packages to install on every image
 GLUON_SITE_PACKAGES := \
         iwinfo \
-#       gluon-config-mode-domain-select \
         ff-wtbg-autoreboot \
         gluon-tunneldigger-watchdog \
         gluon-ebtables-limit-arp \
+	gluon-banner \
+	gluon-wificheck \
         gluon-radv-filterd \
         haveged \
         respondd-module-airtime
