@@ -4,7 +4,7 @@ PACKAGES_FFDA_REPO=git://github.com/freifunk-darmstadt/ffda-packages.git
 PACKAGES_FFDA_COMMIT=4c3f10d13f4e718fe9eccbc4f08b19ca33ff049c
 
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
-PACKAGES_FFWTBG_BRANCH=v2017.1.x
+PACKAGES_FFWTBG_BRANCH=v2018.1
 PACKAGES_FFWTBG_COMMIT=4e626f8d09818da850b2d2bdf9e357f552673787
 
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
