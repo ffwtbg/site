@@ -42,7 +42,6 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         gluon-ebtables-limit-arp \
 	gluon-banner \
-	gluon-wificheck \
         gluon-radv-filterd \
         haveged \
         respondd-module-airtime
