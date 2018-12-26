@@ -1,7 +1,7 @@
 GLUON_SITE_FEEDS='ffda ffwtbg ffrl ffef'
 
 PACKAGES_FFDA_REPO=git://github.com/freifunk-darmstadt/ffda-packages.git
-PACKAGES_FFDA_COMMIT=4c3f10d13f4e718fe9eccbc4f08b19ca33ff049c
+PACKAGES_FFDA_COMMIT=24b4cff219c478dabfb86d6f0755709af7fc6f03
 
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
 PACKAGES_FFWTBG_BRANCH=v2018.1
@@ -12,5 +12,5 @@ PACKAGES_FFRL_COMMIT=464fa9c1f3190a7e6d82dba1adac1d5e9f8d1835
 PACKAGES_FFRL_BRANCH=Branch_v2017.x
 
 PACKAGES_FFEF_REPO=https://github.com/eulenfunk/packages.git
-PACKAGES_FFEF_COMMIT=fcab374c7bbf9354245c5b3e144905de313fcd8a
+PACKAGES_FFEF_COMMIT=883031462c9e151baf7af650a782e80043ecdd7d
 PACKAGES_FFEF_BRANCH=v2018.1.x
