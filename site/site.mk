@@ -34,7 +34,8 @@ GLUON_FEATURES := \
         status-page \
         web-advanced \
 	web-private-wifi \
-        web-wizard
+        web-wizard \
+	gluon-web-network
 
 
 # Additional packages to install on every image
