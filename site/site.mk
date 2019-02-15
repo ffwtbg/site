@@ -34,6 +34,7 @@ GLUON_FEATURES := \
         status-page \
         web-advanced \
 	web-private-wifi \
+	config-mode-geo-location-osm \
         web-wizard 
 
 # Additional packages to install on every image
