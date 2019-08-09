@@ -35,6 +35,7 @@ GLUON_FEATURES := \
 GLUON_SITE_PACKAGES := \
         iwinfo \
         ff-wtbg-autoreboot \
+	gluon-ssid-changer \
         gluon-tunneldigger-watchdog \
         gluon-radv-filterd \
         haveged \
