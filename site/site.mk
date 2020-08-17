@@ -1,7 +1,7 @@
 ###################
 # GLUON Settings
 ###################
-DEFAULT_GLUON_RELEASE := 0.10.3
+DEFAULT_GLUON_RELEASE := 0.10.4
 DEFAULT_GLUON_PRIORITY := 0
 GLUON_DEPRECATED := full
 
