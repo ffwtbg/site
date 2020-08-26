@@ -39,6 +39,7 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         gluon-radv-filterd \
         haveged \
+	badblocks-disable-autoupdater \
         respondd-module-airtime
 
 ############################
