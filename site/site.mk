@@ -40,7 +40,7 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         gluon-radv-filterd \
         haveged \
-	ff-wtbg-branch-change \
+	gluon-au-change \
         respondd-module-airtime
 
 ############################
