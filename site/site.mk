@@ -1,7 +1,7 @@
 ###################
 # GLUON Settings
 ###################
-DEFAULT_GLUON_RELEASE := 0.10.4
+DEFAULT_GLUON_RELEASE := 0.10.6
 DEFAULT_GLUON_PRIORITY := 0
 GLUON_DEPRECATED := full
 
@@ -40,6 +40,7 @@ GLUON_SITE_PACKAGES := \
         gluon-tunneldigger-watchdog \
         gluon-radv-filterd \
         haveged \
+	ff-wtbg-branch-change \
         respondd-module-airtime
 
 ############################
