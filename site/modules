@@ -4,7 +4,7 @@ GLUON_SITE_FEEDS='ffwtbg ffrl ffef ssidchanger'
 # PACKAGES_FFDA_COMMIT=24b4cff219c478dabfb86d6f0755709af7fc6f03
 
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
-PACKAGES_FFWTBG_BRANCH=v2018.1
+PACKAGES_FFWTBG_BRANCH=master
 PACKAGES_FFWTBG_COMMIT=fb8b7bf0496b9fec69fec96ffef11b31d25ae1eb
 
 PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
