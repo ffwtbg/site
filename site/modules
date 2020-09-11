@@ -1,12 +1,5 @@
 GLUON_SITE_FEEDS='ffwtbg ffrl ffef ssidchanger'
 
-# PACKAGES_FFDA_REPO=git://github.com/freifunk-darmstadt/ffda-packages.git
-# PACKAGES_FFDA_COMMIT=24b4cff219c478dabfb86d6f0755709af7fc6f03
-
-# PACKAGES_FFK_REPO=https://github.com/freifunk-kiel/ffki-packages.git
-# PACKAGES_FFK_COMMIT=dc3f8c3448b031beb94825aab452907f91a68eb7
-# PACKAGES_FFK_BRANCH=2018.1.x
-
 PACKAGES_FFWTBG_REPO=https://github.com/ffwtbg/ffwtbg-packages.git
 PACKAGES_FFWTBG_BRANCH=v2020.1.3
 PACKAGES_FFWTBG_COMMIT=486262265c18a62e584ee393732edb9fb93ad39b
@@ -16,7 +9,7 @@ PACKAGES_FFRL_COMMIT=464fa9c1f3190a7e6d82dba1adac1d5e9f8d1835
 PACKAGES_FFRL_BRANCH=Branch_v2017.x
 
 PACKAGES_FFEF_REPO=https://github.com/eulenfunk/packages.git
-PACKAGES_FFEF_COMMIT=cf4d0e42275ec2f05e491a9c20886110ce358d8f
+PACKAGES_FFEF_COMMIT=9525854184f8719b053cbc14903818d8b8b58f73
 PACKAGES_FFEF_BRANCH=v2018.1.x
 
 PACKAGES_SSIDCHANGER_REPO=https://github.com/freifunk-nord/gluon-ssid-changer.git
