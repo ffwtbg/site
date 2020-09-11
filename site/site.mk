@@ -39,6 +39,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-ssid-changer \
         gluon-tunneldigger-watchdog \
         gluon-radv-filterd \
+	gluon-txpowerfix \
         haveged \
 	ff-wtbg-branch-change \
         respondd-module-airtime
